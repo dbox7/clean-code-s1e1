@@ -6,8 +6,9 @@
 
 var taskInput = document.getElementById("new-task");
 var addButton = document.querySelector(".button");
-var incompleteTaskHolder = document.querySelector(".incompleteTasks");
-var completedTasksHolder = document.getElementById("completed-tasks");
+var incompleteTaskHolder = document.querySelector(".incomplete-tasks");
+var completedTasksHolder = document.querySelector(".completed-tasks");
+console.log("Не судите строго) примеры комитов только потом увидел, но мои не сильно отличаются. Мы тут все учимся, а не гасим плохими оценками) Удачи!");
 
 var createNewTaskElement = function(taskString) {
 

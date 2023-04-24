@@ -143,12 +143,10 @@ button {
 .task > .task__input_text {
   display:none
 }
-
 .task_edit-mode .task__input_text {
   display:inline-block;
   width:224px
 }
-
 .task_edit-mode label {
   display:none;
 }
