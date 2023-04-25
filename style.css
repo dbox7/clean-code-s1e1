@@ -142,7 +142,7 @@ button {
 }
 
 .task > .task__input_text {
-  width: 226px
+  width: 226px;
 }
 
 .button_delete .button__img {
@@ -163,12 +163,12 @@ button {
 
 /* button_edit Task */
 .task > .task__input_text {
-  display: none
+  display: none;
 }
 
 .task_edit-mode .task__input_text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task_edit-mode label {
