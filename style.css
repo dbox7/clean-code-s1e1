@@ -54,12 +54,11 @@ ul {
 
 li, 
 h3 {
-  list-style: none;
+  list-style:none;
 }
-
 input,
 button { 
-  outline: none;
+  outline:none;
 }
 
 .button {
@@ -105,6 +104,7 @@ button {
 }
 
 /* New Task */
+
 .main__subtitle {
   display: block;
   margin: 0 0 20px;
@@ -162,6 +162,7 @@ button {
 
 /* button_edit Task */
 .task > .task__input_text {
+
   display: none;
 }
 
